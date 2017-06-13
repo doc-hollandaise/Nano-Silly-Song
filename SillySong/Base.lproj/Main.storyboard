@@ -63,8 +63,8 @@
                     </view>
                     <connections>
                         <outlet property="headerLabel" destination="Isi-mN-G74" id="WVh-kV-DoC"/>
-                        <outlet property="lyricsTextView" destination="WLB-tq-nAL" id="faJ-b1-9Y1"/>
-                        <outlet property="nameTextField" destination="Bng-Ar-5na" id="gYk-op-v84"/>
+                        <outlet property="lyricsView" destination="WLB-tq-nAL" id="YWS-rs-8Sy"/>
+                        <outlet property="nameField" destination="Bng-Ar-5na" id="l6r-DH-FJ6"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
